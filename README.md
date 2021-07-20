@@ -20,7 +20,7 @@ Once that was done, I wanted to drop all of the posible character codes into one
 Finally, a for loop was used to populate the password based in the length input given by the user. In this loop, I also used Math.floor and Math.random to pull random integers from the final value array and pushed them into the password value array. the last step was to convert the ASCII character codes to the actual characters, and display it on the screen. 
 
 
-Here is the link to the final product: https://sandra-marr.github.io/Homework03/
+Here is the link to the final product: https://sandra-marr.github.io/003_Password-Generator/
 
 ![The Password Generator application displays a red button to "Generate Password".](./assets/images/03-javascript-homework-demo.png)
 
